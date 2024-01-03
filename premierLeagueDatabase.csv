@@ -1,0 +1,112 @@
+NAME,NATIONALITY,CLUB,POSITION
+Bukayo Saka,England,Arsenal,FW
+Gabriel Martinelli,Brazil,Arsenal,FW
+Gabriel Jesus,Brazil,Arsenal,FW
+Declan Rice,England,Arsenal,MD
+Thomas Partey,Ghana,Arsenal,MD
+Kai Havertz,Germany,Arsenal,MD
+Oleksander Zinchenko,Ukraine,Arsenal,DEF
+William Saliba,France,Arsenal,DEF
+Gabriel Magalhaes,Brazil,Arsenal,DEF
+Benjamin White,England,Arsenal,DEF
+Aaron Ramsdale,England,Arsenal,GK
+Erling Haaland,Norway,Manchester City,FW
+Jack Grealish,England,Manchester City,FW
+Phil Foden,England,Manchester City,FW
+Bernardo Silva,Portugal,Manchester City,MD
+Kevin De-Bruyne,Belgium,Manchester City,MD
+Mateo Kovacic,Croatia,Manchester City,MD
+Kyle Walker,England,Manchester City,DEF
+Ruben Dias,Portugal,Manchester City,DEF
+Joško Gvardiol ,Croatia,Manchester City,DEF
+Rodri,Spain,Manchester City,MD
+Ederson,Brazil,Manchester City,GK
+Mohamed Salah,Egypt,Liverpool,FW
+Darwin Nunez,Uruguay,Liverpool,FW
+Diogo Jota,Portugal,Liverpool,FW
+Dominik Szoboszlai,Hungary,Liverpool,MD
+Cody Gakpo,Netherlands,Liverpool,MD
+Alexis Mac-Allister,Argentina,Liverpool,MD
+Trent Alexander-Arnold,England,Liverpool,DEF
+Joel Matip,England,Liverpool,DEF
+Virgil Van Dijk,Netherlands,Liverpool,DEF
+Andrew Robertson,England,Liverpool,DEF
+Ederson,Brazil,Liverpool,GK
+Guglielmo Vicario,Italy,Tottenham,GK
+Cristian Romero,Argentina,Tottenham,DEF
+Pedro Porro,Spain,Tottenham,DEF
+Micky van de Ven,Netherlands,Tottenham,DEF
+Ben Davies,Wales,Tottenham,DEF
+Yves Bissouma,Mali,Tottenham,MD
+Pape Sarr,Senegal,Tottenham,MD
+Richarlison,Brazil,Tottenham,FW
+Dejan Kulusevski,Sweden,Tottenham,FW
+James Maddison,England,Tottenham,MD
+Heung-Min Son,South Korea,Tottenham,FW
+Moussa Diaby,France,Aston Villa,FW
+Ollie Watkins,England,Aston Villa,FW
+John McGinn,Scotland,Aston Villa,MD
+Boubacar Kamara,France,Aston Villa,MD
+Douglas Luiz,Brazil,Aston Villa,MD
+Youri Tielemans,Belgium,Aston Villa,MD
+Lucas Digne,France,Aston Villa,DEF
+Pau Torres,Spain,Aston Villa,DEF
+Ezri Konsa,England,Aston Villa,DEF
+Matty Cash,Poland,Aston Villa,DEF
+Emiliano Martinez,Argentina,Aston Villa,GK
+Sandro Tonali,Italy,Newcastle United,MID
+Alexander Isak,Sweden,Newcastle United,FW
+Miguel Almiron,Paraguay,Newcastle United,MID
+Anthony Gordon,England,Newcastle United,FW
+Lewis Hall,England,Newcastle United,DEF
+Bruno Guimaraes,Brazil,Newcastle United,MID
+Nick Pope,England,Newcastle United,GK
+Fabian Schar,Switzerland,Newcastle United,DEF
+Joelinton,Brazil,Newcastle United,MID
+Kieran Trippier,England,Newcastle United,DEF
+Callum Wilson,England,Newcastle United,FW
+Andre Onana,Cameroon,Manchester United,GK
+Harry Maguire,England,Manchester United,DEF
+Lisandro Martinez,Argentina,Manchester United,DEF
+Raphael Varane,France,Manchester United,DEF
+Diogo Dalot,Portugal,Manchester United,DEF
+Bruno Fernandes,Portugal,Manchester United,MID
+Casemiro,Brazil,Manchester United,MID
+Mason Mount,England,Manchester United,MID
+Christian Eriksen,Denmark,Manchester United,MID
+Anthony Martial,France,Manchester United,FW
+Marcus Rashford,England,Manchester United,FW
+Antony,Brazil,Manchester United,FW
+Bart Verbruggen,Netherlands,Brighton,GK
+Tariq Lamptey,Ghana,Brighton,DEF
+Adam Webster,England,Brighton,DEF
+Pervis Estupinan,Ecuador,Brighton,DEF
+Solly March,England,Brighton,MID
+Pascal Grob,Germany,Brighton,MID
+Kaoru Mitoma,Japan,Brighton,MID
+James Milner,England,Brighton,MID
+Danny Welbeck,England,Brighton,FW
+Joao Pedro,Brazil,Brighton,FW
+Ansu Fati,Spain,Brighton,FW
+Alphonse Areola,France,West Ham,GK
+Kurt Zouma,France,West Ham,DEF
+Ben Johnson,England,West Ham,DEF
+Vladimir Coufal,Czech Republic,West Ham,DEF
+Emerson,Italy,West Ham,DEF
+Lucas Paqueta,Brazil,West Ham,MID
+Tomas Soucek,Czech Republic,West Ham,MID
+James Ward-Prowse,England,West Ham,MID
+Michail Antonio,Jamaica,West Ham,FW
+Jarrod Bowen,England,West Ham,FW
+Said Benrahma,Algeria,West Ham,FW
+Robert Sanchez,Spain,Chelsea,GK
+Thiago Silva,Brazil,Chelsea,DEF
+Ben Chilwell,England,Chelsea,DEF
+Reece James,England,Chelsea,DEF
+Enzo Fernandez,Argentina,Chelsea,MID
+Mykhailo Mudryk,Ukraine,Chelsea,MID
+Conor Gallagher,England,Chelsea,MID
+Moises Caicedo,Ecuador,Chelsea,MID
+Raheem Sterling,England,Chelsea,FW
+Christopher Nkunku,France,Chelsea,FW
+Nicolas Jackson,Senegal,Chelsea,FW
